@@ -1,0 +1,62 @@
+biscuits:cookies
+angry:mad
+toilet:restroom
+queue:line
+shop:store
+caravan:trailer
+timetable:schedule
+flat:apartment
+appetizer:starter
+fringe:bangs
+hairslide:barrette
+grill:broil
+grill:broiler
+sweet:candy
+mobile phone:cell phone
+crisps:chips
+wardrobe:closet
+candyfloss:cotton candy
+anticlockwise:counter clockwise
+cot:crib
+nappy:diaper
+chemist:drugstore
+aubergine:eggplant
+junior school:elementary school
+lift:elevator
+motorway:expressway
+chips:French fries
+dustbin:garbage can
+petrol:gas
+bonnet:hood
+skipping rope:jump rope
+number plate:license plate
+off-licence:liquor store
+postbox:mailbox
+oven glove:oven mitt
+dummy:pacifier
+trousers:pants
+car park:parking lot
+parting:part
+full stop:period
+public school:private school
+state school:public school
+dressing gown:bathrobe
+shopping trolley:shopping cart
+pavement:sidewalk
+sledge:sled
+trainers:sneakers
+football:soccer
+pushchair:stroller
+underground:subway
+braces:suspenders
+jumper:sweater
+takeaway:takeout
+drawing pin:thumbtack
+noughts and crosses:tic-tac-toe
+boot:trunk
+vest:undershirt
+holiday:vacation
+waistcoat:vest
+flannel:washcloth
+postcode:zip code
+courgette:zucchini

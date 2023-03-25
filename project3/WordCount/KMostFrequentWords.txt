@@ -1,0 +1,8 @@
+the: 18
+to: 10
+machine: 7
+and: 7
+I: 6
+in: 5
+was: 5
+my: 4
