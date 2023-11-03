@@ -1,0 +1,10 @@
+749 B F D G C A I H E;
+380 D B G A H E I F C;
+787 E G D A F H C B I;
+181 G E C B D F H I A;
+748 F C E G D A H B I;
+907 A F G B D E I H C;
+176 F C B I A E D H G;
+758 I B G E C F A H D;
+515 C I D E H G B F A;
+677 D G H F C A E I B;

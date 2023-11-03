@@ -1,0 +1,10 @@
+403 A F H C B E I D G;
+132 B C H D G A I F E;
+787 G A H C B F D I E;
+983 I D C A G E H F B;
+410 E H A G C D I B F;
+661 F I A H D E B C G;
+119 G I F D B E H A C;
+116 G C A B I H F D E;
+591 G B D F I H A C E;
+389 H A D C E B F G I;

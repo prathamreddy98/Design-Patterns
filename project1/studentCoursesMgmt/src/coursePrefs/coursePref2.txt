@@ -1,0 +1,10 @@
+560 G C B E I H F D A;
+251 D I A B F C G H E;
+805 I H B A C G F E D;
+897 B D A G C F H I E;
+395 A H I C D E B G F;
+926 H E I D C B A G F;
+826 I A D E H G F B C;
+285 G H I A B D C E F;
+645 A B C H F G E I D;
+453 F B E I G H D A C;

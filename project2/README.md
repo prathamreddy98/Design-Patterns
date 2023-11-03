@@ -1,49 +1,40 @@
-# cs542-fall-22-assign3
-
-## Name: Pratham Ashok Reddy(B00918556)
-Number of slack days used-0
+# cs542-fall-22-assign2
+Name: Pratham Reddy
+Number of slack days used : 0
 -----------------------------------------------------------------------
------------------------------------------------------------------------
-
-
 Following are the commands and the instructions to run ANT on your project.
-#### Note: build.xml is present in myCampusTour/src folder.
+## Instructions to compile:
+  ant -buildfile studentRecordsBackupTree/src/build.xml all
+
+## Instructions to run:
+
+ant -buildfile studentRecordsBackupTree/src/build.xml run -Darg0=bstInput.txt -Darg1=bstOutput.txt -Darg2=errorLog.txt -Darg3=10 -Darg4=10
+-----------------------------------------------------------------------  
+## Instruction to clean
+ant -buildfile studentRecordsBackupTree/src/build.xml clean
 
 -----------------------------------------------------------------------
-## Instruction to clean:
-
-####Command: ant -buildfile myCampusTour/src/build.xml clean
-
-Description: It cleans up all the .class files that were generated when you
-compiled your code.
+#Data structure used:
+-----------------------------------------------------------------------
+I have used array list since the size of the array list can be increased as elements are added to the list so it increases the size 
+dynamically as needed. Hence it saves the memory cost. Also assuming that the size of the array list will keep on growing frequently 
+as observers will add.
+Space complexity for BST- O(n)
+Time complexity is - O(log n)
+-----------------------------------------------------------------------
+##References:
+-----------------------------------------------------------------------
+https://www.programiz.com/dsa/binary-search-tree
+https://www.geeksforgeeks.org/java-program-to-write-into-a-file/
 
 -----------------------------------------------------------------------
-## Instruction to compile:
-
-####Command: ant -buildfile myCampusTour/src/build.xml all
-
-Description: Compiles your code and generates .class files inside the BUILD folder.
-
+## Description of Design:
 -----------------------------------------------------------------------
-## Instruction to run:
-
-####ant -buildfile myCampusTour/src/build.xml run -Darg0=0 -Darg1=3
-
-Note: Arguments accept the absolute path of the files.
-
-
------------------------------------------------------------------------
-## Instruction to create tar:
-####ant -buildfile myCampusTour/src/build.xml tar 
-
------------------------------------------------------------------------
-## Description:
-The code has been implemented using Builder pattern. The 3 lines of driver code as specified in lecture is written in driver.java 
-The myTour folder has all the enums for Effort, carbonFootPrint, calories, cost, Travel and all the activites have classes
-implementing their interfaces.
-
-
-
+The bstInput.txt file contains the input, the input is read in the fileprocessor file.
+The BST class contains the implementation of the Binary search tree.
+The Observer.java and Subject.java contains the methods implemented by the subject and the object.
+The Node class is used for creating nodes and all the operations of BST are performed in the BST.java file.
+The clearFiles file is used to clear the output and error files so whenever the code is implemented the old files are cleared from the file.
 -----------------------------------------------------------------------
 ### Academic Honesty statement:
 -----------------------------------------------------------------------
@@ -57,7 +48,4 @@ grade of 0 for the involved assignment for my first offense and that I
 will receive a grade of F for the course for any additional
 offense.""
 
-Date: 11/17/2022
-
-
-
+Date: 10/23/2022 
